@@ -1,9 +1,9 @@
 # LAB-001 — Functional Description
 
-**Document:** 04 — Functional Description
-**Project:** LAB-001 — Industrial Machine Control Core
-**Version:** v0.1
-**Status:** Draft
+**Document:** 04 — Functional Description\
+**Project:** LAB-001 — Industrial Machine Control Core\
+**Version:** v0.1\
+**Status:** Draft\
 **Last updated:** 2026-09-05
 
 ---
