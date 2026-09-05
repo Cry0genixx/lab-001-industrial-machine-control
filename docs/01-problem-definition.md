@@ -1,9 +1,9 @@
 # LAB-001 — Problem Definition
 
-**Document:** 01 — Problem Definition
-**Project:** LAB-001 — Industrial Machine Control Core
-**Version:** v0.1
-**Status:** Draft
+**Document:** 01 — Problem Definition\
+**Project:** LAB-001 — Industrial Machine Control Core\
+**Version:** v0.1\
+**Status:** Draft\
 **Last updated:** 2026-09-05
 
 ---
