@@ -1,7 +1,7 @@
 # LAB-001 — Industrial Machine Control Core
 
-**Status:** Planning
-**Version:** v0.1
+**Status:** Planning\
+**Version:** v0.1\
 **Project Type:** Technical Engineering Laboratory
 
 ## Overview
