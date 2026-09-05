@@ -1,9 +1,9 @@
 # LAB-001 — Requirements Specification
 
-**Document:** 02 — Requirements Specification
-**Project:** LAB-001 — Industrial Machine Control Core
-**Version:** v0.1
-**Status:** Draft
+**Document:** 02 — Requirements Specification\
+**Project:** LAB-001 — Industrial Machine Control Core\
+**Version:** v0.1\
+**Status:** Draft\
 **Last updated:** 2026-09-05
 
 ---
